@@ -1,0 +1,10 @@
+{
+  "name": "Yarn-curso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lila Mendes",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
